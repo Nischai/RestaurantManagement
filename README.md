@@ -1,5 +1,7 @@
 # RestaurantManagement
 
+A simple implementation of restaurant management system from both customer end and restaurant staff end. Firebase real time database is used.
+
 ### CUSTOMER
 <img src="./asset/cust_table.png" /> <img src="./asset/cust_menus.png" /> <img src="./asset/cust_bill.png"/> <img src="./asset/cust_review.png" />
 
