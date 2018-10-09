@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/rl_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/tv_main_selectOption"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="24dp"
+        android:text="@string/selectOption"
+        android:textSize="24dp"/>
+
+    <RadioGroup
+        android:id="@+id/rgrp_main_options"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/tv_main_selectOption"
+        android:layout_marginStart="32dp">
+
+        <RadioButton
+            android:id="@+id/rbtn_main_customer"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/customer"/>
+
+        <RadioButton
+            android:id="@+id/rbtn_main_Staff"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/staff"/>
+
+    </RadioGroup>
+
+    <Button
+        android:id="@+id/btn_main_ok"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/rgrp_main_options"
+        android:layout_centerHorizontal="true"
+        android:layout_margin="16dp"
+        android:text="OK"/>
+
+
+</RelativeLayout>

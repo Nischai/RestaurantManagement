@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "430142675314",
+    "firebase_url": "https://restaurant-dc4c8.firebaseio.com",
+    "project_id": "restaurant-dc4c8",
+    "storage_bucket": "restaurant-dc4c8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:430142675314:android:022b69c46d940fba",
+        "android_client_info": {
+          "package_name": "com.nischaipyda.restaurant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "430142675314-spv7eqtj45ne38pt20vj1ladbi7oqfqe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nischaipyda.restaurant",
+            "certificate_hash": "0784617c584963f2fe7484a2e7a200570555cff6"
+          }
+        },
+        {
+          "client_id": "430142675314-09psu66a6v1929ba9r60aqh7rdjn7pmv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-yVCEnqHm5LisXgGtlTOUlPXG1NjPfCU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "430142675314-09psu66a6v1929ba9r60aqh7rdjn7pmv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

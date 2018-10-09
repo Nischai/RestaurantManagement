@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Restaurant</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hi">Hi</string>
+    <string name="selectOption">Select an option</string>
+    <string name="customer">Customer</string>
+    <string name="staff">Staff</string>
+    <string name="rms">RMS</string>
+</resources>
